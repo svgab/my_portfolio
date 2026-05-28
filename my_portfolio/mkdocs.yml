@@ -1,4 +1,5 @@
 site_name: Мое портфолио по программированию
+site_url: https://svgab.github.io/my_portfolio/
 site_description: Отчетные работы по курсу программирования
 theme:
   name: material
